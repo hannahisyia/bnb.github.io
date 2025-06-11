@@ -192,7 +192,7 @@ header .navbar {
 .promotions-section .promotions-details .title {
   font-size: var(--font-size-xxl);
   color: var(--dark-color);
-  font-family: , sans-serif;
+  font-family: "Poppin", sans-serif;
 }
 
 .promotions-section .promotions-details .subtitle {
@@ -261,8 +261,9 @@ header .navbar {
   color: var(--dark-color);
   background: var(--white-color);
   padding: 50px 0 100px;
+}
   
-.section-title {
+.menu-section.section-title {
   font-size: var(--font-size-xl); /* or e.g. 36px */
   font-weight: bold;
   color: var(--primary-color);
@@ -270,7 +271,7 @@ header .navbar {
   margin-bottom: 40px;
 }
   
-}
+
 .menu-section .menu-list {
   display: flex;
   gap: 110px;
